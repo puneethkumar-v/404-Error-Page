@@ -60,6 +60,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://github.com/puneethkumar-v)
-- Twitter [@your-twitter](https://twitter.com/puneethkumar__v)
+- GitHub [@puneethkumar-v](https://github.com/puneethkumar-v)
+- Twitter [@puneethkumar\_\_v](https://twitter.com/puneethkumar__v)
